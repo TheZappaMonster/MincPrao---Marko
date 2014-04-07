@@ -24,3 +24,4 @@ Joel then told us to create a github account. We made one and started writing so
 ![Github Logo] (http://civicio.files.wordpress.com/2013/03/github.png?w=256&h=256)
 
 We worked like 2h on github until it was lunch. We ate, played some ping-pong and started working again.
+![Lunch] (https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/10173448_10200995708574951_508356034_n.jpg?oh=6a7159c505e848c3f52144e7da61c712&oe=53444544&__gda__=1396986987_828d37784746bd7bd7d6baa3bf2fddfe)
