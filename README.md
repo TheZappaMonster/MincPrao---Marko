@@ -1,11 +1,6 @@
 MincPrao---Marko
 ================
 
-Min prao vecka på minc!
+I was an intern at [**Neo4j**] (http://www.neo4j.org/) and [**minc**] (http://www.minc.se/).
 
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/TheZappaMonster/MincPrao---Marko.git
-git push -u origin master
+![Neo4j Logo] (http://www.neotechnology.com/wp-content/uploads/2013/04/neo4j_notag_whitebg.png)
