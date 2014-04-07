@@ -13,4 +13,14 @@ Joel showed us around a bit, we sat down at the local *"sitting"* area.
 
 ![Sitting area] (https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/961305_10200995571491524_1474658361_n.jpg?oh=0f39212ca966e3cf6e3c73546984f902&oe=53446EEB&__gda__=1396981678_8947b35dcaa4a5993cc3f8e9de4b587c)
 
-We spoke a bit about the plan, times to show up and events. You actually don't have 
+We spoke a bit about the plan, times to show up and events. We met some new people that showed us some new stuff we have never seen before. They usually start some small companies and wants to get big, like for example facebook. 
+
+![Facebook Logo] (http://www.hays.se/cs/groups/hays_common/documents/digitalasset/hays_897107.png)
+
+You actually don't have to be in time, it's mostly free. The "goal" is to work from 09:00-16:00 but if you come like, 09:30 you could stay to like 16:30. It's pretty cool here, i like it. 
+
+Joel then told us to create a github account. We made one and started writing some simple programming.
+
+![Github Logo] (http://civicio.files.wordpress.com/2013/03/github.png?w=256&h=256)
+
+We worked like 2h on github until it was lunch. We ate, played some ping-pong and started working again.
