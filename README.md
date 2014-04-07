@@ -40,6 +40,17 @@ open . - open folder in finder
 pwd - show current directory
 
 
+##**Git Commit!**
+
+
+git status
+
+git add filenamn
+
+git commit -m "meddelande"
+
+git push
+
 
 
 
