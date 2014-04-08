@@ -51,6 +51,12 @@ git commit -m "meddelande"
 
 git push
 
+##**Git Pull**
+
+git pull --rebase
+
+But before you do that make sure you git commit and git add!
+
 
 
 
