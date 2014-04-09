@@ -19,12 +19,16 @@ We spoke a bit about the plan, times to show up and events. We met some new peop
 
 You actually don't have to be in time, it's mostly free. The "goal" is to work from 09:00-16:00 but if you come like, 09:30 you could stay to like 16:30. It's pretty cool here, i like it. 
 
-Joel then told us to create a github account. We made one and started writing some simple programming.
+Joel then told us to create a github account. Github is like a facebook, but for programmers. We made one and started writing some simple programming.
 
 ![Github Logo] (http://civicio.files.wordpress.com/2013/03/github.png?w=256&h=256)
 
 We worked like 2h on github until it was lunch. We ate, played some ping-pong and started working again.
 ![Lunch] (https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/10173448_10200995708574951_508356034_n.jpg?oh=6a7159c505e848c3f52144e7da61c712&oe=53444544&__gda__=1396986987_828d37784746bd7bd7d6baa3bf2fddfe)
+
+##**Second day!**
+
+Me and Marcel watched a presentation from an american about how to perfect your [**pitch**] (http://sv.wikipedia.org/wiki/Pitch). Then we worked with a presentation and a *"manuscript"*. 
 
 
 ##**Terminal Words**
