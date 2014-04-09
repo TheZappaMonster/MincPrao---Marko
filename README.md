@@ -28,7 +28,40 @@ We worked like 2h on github until it was lunch. We ate, played some ping-pong an
 
 ##**Second day!**
 
-Me and Marcel watched a presentation from an american about how to perfect your [**pitch**] (http://sv.wikipedia.org/wiki/Pitch). Then we worked with a presentation and a *"manuscript"*. 
+Me and Marcel watched a presentation from an american about how to perfect your [**pitch**] (http://sv.wikipedia.org/wiki/Pitch). Then we worked with a presentation and a *"manuscript"*. I wrote on the whiteboard and i presented my idea for Marcel. 
+
+![Presentetion for Marcel] (https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/10259452_10201004494914604_1228227967_n.jpg?oh=0b65747a0998357b2f6a86b5ec712213&oe=5347B38C&__gda__=1397188648_2d052756f1e7fd34de3ce1fa5f32dd91)
+
+Then we started workin with our idea, we made two repositories. One with a presentation and one with the *"manuscript"*.
+We went downstairs for lunch, again we played some ping-pong and i won!
+
+![Working in sofa] (https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/10178412_10201004494954605_1067989148_n.jpg?oh=8fe64eafdbefebc2a44c27836d32bfea&oe=5347C29C&__gda__=1397179448_b58f94de1d581c37bf7ad2bd61a1ef7f)
+
+##*Third day!*
+
+We came to minc at 13.00, because we are going to an event on Thursday. And we started working with javascript. 
+
+Then Joel stepped in Neo4j's office and told us we are going to try some epic helicopters from the company called [**Bitcraze] (http://www.bitcraze.se/)!
+
+![Heli pic] (https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/10157037_10201004494834602_623373889_n.jpg?oh=c25a89fb39d0335ed78cdcc3b9dcbf7e&oe=534766ED&__gda__=1397175362_0c41a8967b7806d725b50cd7b5386216)
+
+![Marcel flying] (https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/10154606_10201004494994606_2112341428_n.jpg?oh=fe601e134c9e3f2471d16bee644c42da&oe=5347C4C1&__gda__=1397198885_9e56688df94e0439172e428f3bf0167f)
+
+![Me flying] (https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/10168370_10201004502954805_2071418230_n.jpg?oh=b1c6b5dce2c4dd856f807fe719110cb5&oe=5347BE32&__gda__=1397185750_8380e7ac33f02cd4f2a827916776b7d8)
+
+![Heli landing] (https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/10169107_10201004494874603_928599612_n.jpg?oh=64cae10ba411a070ccae3c9c4443bf55&oe=534748C5&__gda__=1397174506_16da5c89faafc024b644e2821910897f)
+
+We had an competition of who could land the heli on a table first and here are the scores!
+
+**Minutes:Seconds,Miliseconds**
+
+**Marcel** : 0:9,75 / 0:5,00
+**Peter** : 2:00,17 - but no landing 
+**Marko** : 0:13,00 / 0:4,50
+**Arno** : 0:14,55
+**Chris** : 1:23,00 - but no landing
+**Joel** : 0:23,90
+
 
 
 ##**Terminal Words**
