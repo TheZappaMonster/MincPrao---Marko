@@ -37,11 +37,11 @@ We went downstairs for lunch, again we played some ping-pong and i won!
 
 ![Working in sofa] (https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/10178412_10201004494954605_1067989148_n.jpg?oh=8fe64eafdbefebc2a44c27836d32bfea&oe=5347C29C&__gda__=1397179448_b58f94de1d581c37bf7ad2bd61a1ef7f)
 
-##*Third day!*
+##**Third day!**
 
 We came to minc at 13.00, because we are going to an event on Thursday. And we started working with javascript. 
 
-Then Joel stepped in Neo4j's office and told us we are going to try some epic helicopters from the company called [**Bitcraze] (http://www.bitcraze.se/)!
+Then Joel stepped in Neo4j's office and told us we are going to try some epic helicopters from the company called [**Bitcraze**] (http://www.bitcraze.se/)!
 
 ![Heli pic] (https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/10157037_10201004494834602_623373889_n.jpg?oh=c25a89fb39d0335ed78cdcc3b9dcbf7e&oe=534766ED&__gda__=1397175362_0c41a8967b7806d725b50cd7b5386216)
 
@@ -56,11 +56,18 @@ We had an competition of who could land the heli on a table first and here are t
 **Minutes:Seconds,Miliseconds**
 
 **Marcel** : 0:9,75 / 0:5,00
+
 **Peter** : 2:00,17 - but no landing 
+
 **Marko** : 0:13,00 / 0:4,50
+
 **Arno** : 0:14,55
+
 **Chris** : 1:23,00 - but no landing
+
 **Joel** : 0:23,90
+
+**Winner = Marko**
 
 
 
